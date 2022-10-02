@@ -11,7 +11,7 @@ RabbitMQ is a message-broker software used for communications between microservi
 ### Keycloak
 [Keycloak](https://www.keycloak.org/) serves as identity management system. Authentication and authorization go through a Keycloak server. You need to setup a Keycloak server before using it.
 
-### ASP.NET 
+### ASP.NET Webapps
 #### Gateway
 Gateway is the gateway for the microservices
 #### App1
