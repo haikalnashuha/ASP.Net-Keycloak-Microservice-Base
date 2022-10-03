@@ -1,7 +1,7 @@
 # ASP.Net with Keycloak Microservice Base
 
 ## Intro
-This source served as a base for a microservices architecture system. Expandable to anything desired.
+This source served as a base for a microservices architecture system. Fork and expand it to anything you want!
 
 ## Components
 
